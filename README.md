@@ -16,7 +16,7 @@ This project is a simple Markdown to HTML converter with a frontend built using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/markdown-to-html-converter.git
+   git clone https://github.com/pallavigupta6/markdownTohtml.git
    cd markdown-to-html-converter/backend
 
    ```
